@@ -1,0 +1,2 @@
+{'Tipo': 'Laptop', 'Descripción': 'Hp 505', 'Importado': True, 'Código': 79667, 'Costo de almacenamiento': 359.74, 'Costo de funda': 133.52, 'Precio de venta': 449.675}
+{'Tipo': 'Laptop', 'Descripción': 'HP', 'Importado': False, 'Código': 34895, 'Costo de almacenamiento': 265.45, 'Costo de funda': 110.08, 'Precio de venta': 331.8125}
